@@ -20,3 +20,6 @@ Setup the environmental variable QueueA, QueueB, QueueC with your SQS url.
 ## Test
 ![Test](assests/sqs.png) <br/>
 
+## Refernce
+https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/java/example_code/sqs/src/main/java/aws/example/sqs
+
